@@ -1,6 +1,4 @@
 # 💫About Me :
-😊 i love coding
-😏 Javascript and BlockChain Developer
 😎Forward to progress😎
 
 ## 🌐Socials
