@@ -40,6 +40,6 @@
 
 ###
 
-**LinkedIn**: [Arash Mousavi](https://www.linkedin.com/in/arash-mousavi)
+**LinkedIn**: [Arash Mousavi](https://www.linkedin.com/in/mrarashmousavi)
 
 ###
