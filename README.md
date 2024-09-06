@@ -18,6 +18,7 @@
 
 ###
 
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -35,6 +36,19 @@
 </div>
 
 ###
+
+
+<h2 align="left">Blockchain Technologies</h2>
+
+###
+
+<p align="left">I am also exploring blockchain technologies, with a focus on:</p>
+<ul align="left">
+  <li>Ethereum</li>
+  <li>Solidity</li>
+  <li>Smart Contract Development</li>
+  <li>Decentralized Applications (DApps)</li>
+</ul>
 
 <h2 align="left">Contact</h2>
 
