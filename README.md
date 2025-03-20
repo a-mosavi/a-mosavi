@@ -28,6 +28,8 @@ Additionally, I am actively learning and integrating **blockchain technologies**
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
   <img width="12" />
+  <img src="https://nestjs.com/img/logo-small.svg" height="40" alt="NestJS logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core logo" />
@@ -57,7 +59,11 @@ I am exploring blockchain technologies, focusing on:
 
 ## 📫 Contact  
 
-📌 **LinkedIn**: [Arash Mousavi](https://www.linkedin.com/in/mrarashmousavi)  
+📌 **LinkedIn**: [Arash Mousavi](https://www.linkedin.com/in/arashmousavi)  
+
+📌 **GitHub**: [Your GitHub Profile](https://github.com/yourgithubusername)  
+
+📌 **Email**: [Your Email]  
 
 ---
 
