@@ -61,10 +61,7 @@ I am exploring blockchain technologies, focusing on:
 
 📌 **LinkedIn**: [Arash Mousavi](https://www.linkedin.com/in/arashmousavi)  
 
-📌 **GitHub**: [Your GitHub Profile](https://github.com/yourgithubusername)  
-
-📌 **Email**: [Your Email]  
-
 ---
+
 
 🚀 **Always learning, building, and growing!**  
